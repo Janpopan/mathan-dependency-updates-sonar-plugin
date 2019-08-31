@@ -11,7 +11,7 @@
   <artifactId>mathan-dependency-updates-sonar-plugin</artifactId>
   <packaging>sonar-plugin</packaging>
   <properties>
-    <sonar.version>7.6</sonar.version>
+    <sonar.version>7.9.1</sonar.version>
     <!-- Configuration for sonar-packaging-maven-plugin -->
     <sonar.pluginClass>io.mathan.sonar.dependencyupdates.Plugin</sonar.pluginClass>
     <sonar.pluginName>Dependency-Updates</sonar.pluginName>
